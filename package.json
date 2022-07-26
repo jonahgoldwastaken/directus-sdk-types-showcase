@@ -1,0 +1,20 @@
+{
+	"name": "directus-sdk-types-showcase",
+	"version": "0.0.1",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Jonah Meijers <jonahmeijers97@gmail.com> (https://jonahmeijers.com)",
+	"license": "MIT",
+	"dependencies": {
+		"@directus/sdk": "github:jonahgoldwastaken/directus-sdk#temp-pub"
+	},
+	"devDependencies": {
+		"@types/node": "16",
+		"prettier": "^2.7.1",
+		"typescript": "^4.7.4"
+	}
+}
